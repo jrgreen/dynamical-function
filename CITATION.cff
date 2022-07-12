@@ -9,7 +9,6 @@ authors:
 - family-names: Green
   given-names: Jason
   orcid: "0000-0003-2572-2838"
-repository-code: https://github.com/jrgreen/dynamical-function
 version: 1.0.0
-url: https://github.com/jrgreen/dynamical-function
+url: "https://github.com/jrgreen/dynamical-function"
 doi: 
